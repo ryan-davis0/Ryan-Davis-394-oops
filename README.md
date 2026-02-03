@@ -1,5 +1,5 @@
 # Random Weather
-
+.
 A full-stack TypeScript application that displays weather information for randomly selected cities around the world. Built with **Express.js** backend and **React** frontend using **Vite**.
 
 ## Features
